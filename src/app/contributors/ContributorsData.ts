@@ -150,4 +150,9 @@ export const ContributorsData = [
     github: "https://github.com/chaanakyaam",
     imageUrl: "https://avatars.githubusercontent.com/u/131477601?s=400&v=4",
   },
+  {
+    name: "Adarsh Singh Tomar",
+    github: "https://github.com/AdarshGT33",
+    imageUrl: "https://avatars.githubusercontent.com/u/144033708?v=4",
+  },
 ];
